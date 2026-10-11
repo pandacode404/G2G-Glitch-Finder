@@ -4,8 +4,6 @@
 // @version      1.7
 // @description  A browser script uses a glitch to send your money back to your wallet, but you still get the gift card for free.
 // @match        *://*/*
-// @updateURL    https://github.com/pandacode404/G2G-Glitch-Finder/raw/refs/heads/main/code.user.js
-// @downloadURL  https://github.com/pandacode404/G2G-Glitch-Finder/raw/refs/heads/main/code.user.js
 // @grant        none
 // ==/UserScript==
 
