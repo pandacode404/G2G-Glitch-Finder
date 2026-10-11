@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         G2G Glitch Finder.
+// @name         G2G Refund Glitch Finder.
 // @namespace    http://tampermonkey.net/
 // @version      1.7
-// @description  A browser script uses a glitch to send your money back to your wallet, but you still get the gift card for free.
+// @description  A browser script uses a refund glitch to send your money back to your wallet, but you still get the gift card for free.
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
