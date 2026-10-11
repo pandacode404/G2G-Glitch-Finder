@@ -3,6 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.7
 // @description  A browser script uses a refund glitch to send your money back to your wallet, but you still get the gift card for free.
+// @author       Pandacode404
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
